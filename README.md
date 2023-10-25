@@ -1,5 +1,5 @@
 # bjm-utility-plugins-list
-This is a helper plugin to get a list of all plugin 
+This is a helper plugin to get a list of plugins that have any updates available. 
 
 ## Usage
 To get the plugins list, add a query parameter to the url like this: `?bjm-plugins-list`
